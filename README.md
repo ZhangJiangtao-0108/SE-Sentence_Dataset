@@ -6,7 +6,7 @@ SE-Sentence is a sign language Enotion recognition (SLER) dataset, which is base
 
 ### Emotion Stimuli
 ---
-SE-Sentence co-opted the emotional stimulation method of the [SEED dataset]() to elicit volunteers’ emotions. Fifteen clips from six Chinese movies were selected to evoke different emotions. After the emotional stimuli generated, the volunteers were asked to complete self-assessment manikin system questionnaire to ensure the current emotion category and assess the degree of valence and arousal.
+SE-Sentence co-opted the emotional stimulation method of the [SEED dataset](https://bcmi.sjtu.edu.cn/home/seed/) to elicit volunteers’ emotions. Fifteen clips from six Chinese movies were selected to evoke different emotions. After the emotional stimuli generated, the volunteers were asked to complete self-assessment manikin system questionnaire to ensure the current emotion category and assess the degree of valence and arousal.
 
 ### Data Collection
 ---
@@ -19,7 +19,7 @@ Each instance in this datasets contains **sEMG and IMU** information of the sign
 ## Download
 ---
 The SE-Sentence database is released to universities and research institutes for research purpose only. To request the access right to the data resources, please follow the instructions below:
-- Download the [SE-Sentence Dataset Release Agreement](https://github.com/ZhangJiangtao-0108/MM-Sentence_Dataset/blob/main/MM-Sentence%20_Dataset%20_Release%20_Agreement.pdf);
+- Download the [SE-Sentence Dataset Release Agreement](https://github.com/ZhangJiangtao-0108/SE-Sentence_Dataset/blob/main/SE-Sentence%20_Dataset%20_Release%20_Agreement.pdf);
 - Read all items and conditions carefully;
 - Complete it appropriately. Note that the agreement should be signed by a full-time staff member (that is, the student is not acceptable).
 - Please scan the signed agreement, send it to (zhangjiangtao@mail.hfut.edu.cn) and CC to Prof. Wang (qswang@hfut.edu.cn). If you are a student, please also CC to the full-time staff member who sign the agreement.
